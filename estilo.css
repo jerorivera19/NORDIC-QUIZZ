@@ -1,0 +1,74 @@
+body {
+	background-image: url(img/v1.jpg)
+}
+.obj {
+	background-color: #a7f;
+	outline-color: orange;
+	display: inline-block;
+	border: 4px outset;
+	border-radius: 13px;
+	padding: 4px;
+	margin-top: 2%;
+	text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff,2px 2px 7px #fff;
+}
+.instru {
+	background-color: #a7f;
+	outline-color: orange;
+	display: inline-block;
+	border: 4px outset;
+	border-radius: 13px;
+	padding: 6px;
+	margin-left: 92%;
+	margin-top: -50px;
+	text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff,2px 2px 7px #fff;
+}
+.Jugar {
+	background-color: #a7f;
+	outline-color: orange;
+	display: inline-block;
+	border: 4px outset;
+	padding: 6px;
+	margin-left: 39%;
+	margin-top: 1%;
+	text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff,2px 2px 7px #fff;
+}
+.crede {
+	background-color: #a7f;
+	outline-color: orange;
+	display: inline-block;
+	border: 4px outset;
+	border-radius: 13px;
+	padding: 6px;
+	margin-left: 94%;
+	margin-top: 1%;
+	text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff,2px 2px 7px #fff;
+}
+.login {
+	background-color: #a7f;
+	outline-color: orange;
+	display: inline-block;
+	border: 4px outset;
+	padding: 6px;
+	margin-left: 36%;
+	margin-top: 20%;
+	text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff,2px 2px 7px #fff;
+	text-align: center;
+}
+.nvl {
+	background-color: #a7f;
+	outline-color: orange;
+	display: inline-block;
+	border: 4px outset;
+	border-radius: 13px;
+	padding: 4px;
+	margin: 4px;
+}
+.A {
+	background-color: #a7f;
+	outline-color: red;
+	display: inline-block;
+	border: 4px outset;
+	border-radius: 13px;
+	padding: 4px;
+	margin: 4px;
+}

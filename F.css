@@ -1,0 +1,12 @@
+body {
+	background-image: url(img/perdiste.jpg);
+}
+.nueva_vida {
+	background-color: red;
+	display: inline-block;
+	border: 4px outset;
+	border-radius: 13px;
+	padding: 4px;
+	margin: 4px;
+	text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff,2px 2px 7px #fff;
+}
